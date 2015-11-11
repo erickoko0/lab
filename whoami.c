@@ -10,6 +10,7 @@ int main() {
 	printf("1023003\n");
 	printf("1023030\n");
 	printf("1022994\n");
+	printf("1022990\n");
 
 	return 0;
 }
